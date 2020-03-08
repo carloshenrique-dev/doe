@@ -7,7 +7,7 @@ Instrutor: [Mayk Brito] ("https://github.com/maykbrito")
 ### Front-end
 - **HTML5**
 - **CSS3**
-- **JS**
+- **JavaScript**
 - **SQL**
 ### Back-end
 - **JS**
