@@ -16,7 +16,8 @@ Instrutor: [Mayk Brito] ("https://github.com/maykbrito")
 - **Banco de Dados Postgres**
 
 ## Lista de comandos para o BD
-`npm install pg`
+`npm install pg` (instalação  do BD)
+
 `npm start` (realiza a inicialização do BD no terminal Node, utilizado para inicializar a aplicação)
 
 ## Dependências
